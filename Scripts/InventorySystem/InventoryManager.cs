@@ -157,12 +157,8 @@ public class InventoryManager : MonoBehaviour
 
 
         }
-        //SetInventoryItems();
+        
     }
 
-    public void SetInventoryItems()
-    {
-        
-        
-    }
+   
 }
